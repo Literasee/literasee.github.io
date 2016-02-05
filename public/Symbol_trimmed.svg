@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="123px" viewBox="0 0 128 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Symbol</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Symbol" sketch:type="MSLayerGroup" transform="translate(-1.000000, 0.000000)">
+            <g id="Group" sketch:type="MSShapeGroup">
+                <path d="M129.228,122.629 C129.228,122.629 103.231,116.443 79.225,114.89 C57.442,113.477 0.896,114.316 0.896,114.316 C0.896,114.316 85.113,118.622 129.228,122.629 L129.228,122.629 Z" id="Shape" fill="#808083"></path>
+                <path d="M45.741,76.634 C45.741,76.634 55.179,74.568 62.116,79.07 L67.669,68.909 L51.354,25.641 C51.354,25.641 40.633,37.827 38.95,51.004 C38.948,51.003 35.985,64.25 45.741,76.634 L45.741,76.634 Z" id="Shape" fill="#0696A6"></path>
+                <path d="M77.49,95.051 C77.49,95.051 74.597,85.83 67.245,82.042 L73.308,72.183 L118.969,64.867 C118.969,64.867 113.712,80.221 103.113,88.226 C103.112,88.226 93.082,97.371 77.49,95.051 L77.49,95.051 Z" id="Shape" fill="#BCC831"></path>
+                <path d="M72.086,60.583 L81.299,44.72 L72.603,12.227 C72.603,12.227 61.707,16.059 55.294,22.002 L72.086,60.583 L72.086,60.583 Z" id="Shape" fill="#0696A6"></path>
+                <path d="M78.025,63.966 L86.966,47.949 L119.351,38.852 C119.351,38.852 121.613,50.179 119.772,58.727 L78.025,63.966 L78.025,63.966 Z" id="Shape" fill="#BCC831"></path>
+                <path d="M77.326,10.547 L85.795,35.969 L108.519,0.308 L77.326,10.547 Z" id="Shape" fill="#0696A6"></path>
+                <path d="M118.332,33.334 L92.278,38.578 L111.767,1.438 L118.332,33.334 Z" id="Shape" fill="#BCC831"></path>
+                <path d="M46.93,110.059 L61.055,103.101 C61.055,103.101 63.658,101.742 59.941,98.481 C59.941,98.481 56.302,93.402 48.266,92.807 C48.266,92.807 46.297,92.548 46.381,94.772 L46.378,110.059" id="Shape" fill="#808083"></path>
+            </g>
+        </g>
+    </g>
+</svg>
