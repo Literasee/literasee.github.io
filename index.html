@@ -1,17 +1,32 @@
 <title>Page Under Construction</title>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
 <style type="text/css">
-body {
-  background-color:#000;
+.responsive-container {
+    position: relative;
+    width: 100%;
+    border: 1px solid black;
+    overflow: hidden;
 }
-.img {
-  margin: auto;
-  width: 70%;
-  vertical-align: middle;
+
+.dummy {
+    padding-top: 100%; /* forces 1:1 aspect ratio */
+}
+
+.img-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
 }
 </style>
-</head>
-<body>
-<div class="img"><img src="/public/Literasee_handwritten_center_for_assessment_trimmed.svg" style="width: 100%;"></div>
-</body>
+<div class="responsive-container">
+    <div class="dummy"></div>
+    <div class="img-container">
+        <img src="http://literasee.github.io/public/Literasee_handwritten_center_for_assessment_trimmed.svg" alt="" />
+    </div>
+</div>
 </html>
